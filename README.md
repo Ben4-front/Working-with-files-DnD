@@ -1,5 +1,6 @@
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
 
+Ссылка на проект: https://ben4-front.github.io/Working-with-files-DnD/
 [![Build and Deploy](https://github.com/Ben4-front/Working-with-files-DnD/actions/workflows/web.yml/badge.svg)](https://github.com/Ben4-front/Working-with-files-DnD/actions/workflows/web.yml)
 
 Правила сдачи задания:
