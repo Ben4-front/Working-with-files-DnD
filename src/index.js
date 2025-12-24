@@ -1,6 +1,5 @@
-import './css/style.css';
-import App from './js/App';
+import "./css/style.css";
 
-document.addEventListener('DOMContentLoaded', () => {
-  new App().init();
-});
+import "./js/app";
+
+// TODO: write your code in app.js
